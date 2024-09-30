@@ -69,7 +69,7 @@ How to get repository from Github, install packages and run it locally
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/skec13/react_TicTacToe.git
+   git clone https://github.com/skec13/react_projectManagement.git
    ```
 2. Go to downloaded file and CD into project
 
@@ -122,7 +122,7 @@ How to get repository from Github, install packages and run it locally
 
 Email: [matevz.miskec@gmail.com](matevz.miskec@gmail.com)
 
-Project Link: [https://github.com/skec13/react_TicTacToe](https://github.com/skec13/react_TicTacToe)
+Project Link: [https://github.com/skec13/react_projectManagement](https://github.com/skec13/react_projectManagement)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
